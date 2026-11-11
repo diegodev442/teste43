@@ -1,1 +1,0 @@
-{"name":"clube-dg","private":true,"type":"module","scripts":{"dev":"node scripts/preview.mjs","build":"node scripts/build.mjs","test":"node scripts/test-api.mjs"}}
